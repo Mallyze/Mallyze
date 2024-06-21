@@ -1,4 +1,4 @@
-<h2 align="left">Oiee! Me chamo Maria Eduarda!</h2>
+<h2 align="left">Oiee! I'm Maria Eduarda!</h2>
 
 ###
 
@@ -21,7 +21,12 @@
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo"  />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="37" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"![perfil_do_perfilMallyze](https://github.com/Mallyze/Mallyze/assets/118320527/d1128d5a-450d-45c3-92d6-cd4ac4ad578a)
+ height="37" alt="nodejs logo"  />
 </div>
+
+<br>
+
+![perfil_do_perfilMallyze](https://github.com/Mallyze/Mallyze/assets/118320527/3dfb4c6c-257b-49ee-a3f8-fbba1c93bcd7)
 
 ###
